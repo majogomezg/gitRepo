@@ -7,5 +7,6 @@ int main (){
     int *p;
     p=&A1;
     cout<<p;
+    cout<<"majoo";
 
 }
